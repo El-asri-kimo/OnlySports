@@ -1,2 +1,0 @@
-# OnlySports
-iptv
