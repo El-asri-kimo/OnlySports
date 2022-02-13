@@ -144,6 +144,12 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/620685?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",Canal+ Premier League HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114146?checkedby:iptvcat.com
 
+#EXTM3U
+#EXTINF:0 tvg-id="Barca.pt" group-title="SPAIN",BARCA TV
+http://test456.space:8080/g2020/2020g/77882?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="SPAIN",REAL MADRID  TV
+http://hdlocal.de:8080/Wallas/Wallas/3143?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-id="SkySport251.it" group-title="ITALY",SKY CALCIO 1 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/68603?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="SkySport252.it" group-title="ITALY",SKY CALCIO 2 HD
