@@ -14,3 +14,18 @@ http://89.38.99.141/6/index.m3u8
 #EXTINF:-1,beIN Sports 7 
 http://89.38.99.141/7/index.m3u8
 
+#EXTM3U
+#EXTINF:-1,bein SPORTS 1
+http://89.38.99.141/1/mpegts
+#EXTINF:-1,bein SPORTS 2
+http://89.38.99.141/2/mpegts
+#EXTINF:-1,bein SPORTS 3
+http://89.38.99.141/3/mpegts
+#EXTINF:-1,bein SPORTS 4
+http://89.38.99.141/4/mpegts
+#EXTINF:-1,bein SPORTS 5
+http://89.38.99.141/5/mpegts
+#EXTINF:-1,bein SPORTS 6
+http://89.38.99.141/6/mpegts
+#EXTINF:-1,bein SPORTS 7
+http://89.38.99.141/7/mpegts
