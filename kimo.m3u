@@ -1,31 +1,55 @@
 #EXTM3U
-#EXTINF:-1,bein Sports 1
-http://89.38.99.141/1/index.m3u8
-#EXTINF:-1,beIN Sports 2 
-http://89.38.99.141/2/index.m3u8
-#EXTINF:-1,beIN Sports 3
-http://89.38.99.141/3/index.m3u8
-#EXTINF:-1,beIN Sports 4
-http://89.38.99.141/4/index.m3u8
-#EXTINF:-1,beIN Sport 5
-http://89.38.99.141/5/index.m3u8
-#EXTINF:-1,beIN Sports 6
-http://89.38.99.141/6/index.m3u8
-#EXTINF:-1,beIN Sports 7 
-http://89.38.99.141/7/index.m3u8
-
-#EXTM3U
-#EXTINF:-1,bein SPORTS 1
-http://89.38.99.141/1/mpegts
-#EXTINF:-1,bein SPORTS 2
-http://89.38.99.141/2/mpegts
-#EXTINF:-1,bein SPORTS 3
-http://89.38.99.141/3/mpegts
-#EXTINF:-1,bein SPORTS 4
-http://89.38.99.141/4/mpegts
-#EXTINF:-1,bein SPORTS 5
-http://89.38.99.141/5/mpegts
-#EXTINF:-1,bein SPORTS 6
-http://89.38.99.141/6/mpegts
-#EXTINF:-1,bein SPORTS 7
-http://89.38.99.141/7/mpegts
+#EXTINF:-1,BEIN AFCON 1 SD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035524&extension=ts&play_token=S5m9Wo0lRV
+#EXTINF:-1,BEIN AFCON 1 SD+ 
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035692&extension=ts&play_token=99tW4Bu2oy
+#EXTINF:-1,BEIN AFCON 1 HD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035526&extension=ts&play_token=a2zCnNmvfF
+#EXTINF:-1,BEIN AFCON 1 HD+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035694&extension=ts&play_token=utdjRGpiNj
+#EXTINF:-1,BEIN AFCON 1 FHD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035528&extension=ts&play_token=RMVwhhKehU
+#EXTINF:-1,BEIN AFCON 1 FHD+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035694&extension=ts&play_token=2ZDdB3IPC4
+#EXTINF:-1,BEIN AFCON 1 4K
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035530&extension=ts&play_token=JxEARgSQL6
+#EXTINF:-1,BEIN AFCON 1 4K+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035698&extension=ts&play_token=lf1nozf8ty
+#EXTINF:-1,BEIN AFCON 1 HEVC
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035532&extension=ts&play_token=q2kWAkjqmK
+#EXTINF:-1,BEIN AFCON 2 SD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035525&extension=ts&play_token=Ip5tJKcG0L
+#EXTINF:-1,BEIN AFCON 2 SD+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035693&extension=ts&play_token=UWiJMu9fTK
+#EXTINF:-1,BEIN AFCON 2 HD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035527&extension=ts&play_token=zmFSVQfMmq
+#EXTINF:-1,BEIN AFCON 2 HD+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035695&extension=ts&play_token=JwRbzrO04l
+#EXTINF:-1,BEIN AFCON 2 FHD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035529&extension=ts&play_token=BbzbliOKlU
+#EXTINF:-1,BEIN AFCON 2 FHD+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035697&extension=ts&play_token=i17KO1Hl4V
+#EXTINF:-1,BEIN AFCON 2 4K
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035531&extension=ts&play_token=HG5jobAkas
+#EXTINF:-1,BEIN AFCON 2 4K+
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035699&extension=ts&play_token=TqxPr8ttxv
+#EXTINF:-1,BEIN AFCON 2 HEVC
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035533&extension=ts&play_token=1ti2D2qyrj
+#EXTINF:-1,BEIN AFCON 3 SD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035700&extension=ts&play_token=h34zae22As
+#EXTINF:-1,BEIN AFCON 3 HD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035701&extension=ts&play_token=F6EApNuzlw
+#EXTINF:-1,BEIN AFCON 3 FHD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035702&extension=ts&play_token=hj1NcnYFdp
+#EXTINF:-1,BEIN AFCON 3 4K
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035703&extension=ts&play_token=jPGfdLnvR2
+#EXTINF:-1,BEIN AFCON 4 SD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035704&extension=ts&play_token=iriGHO8eVX
+#EXTINF:-1,BEIN AFCON 4 HD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035705&extension=ts&play_token=kakOHpjFjG
+#EXTINF:-1,BEIN AFCON 4 HD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035706&extension=ts&play_token=yX0kzx7cNF
+#EXTINF:-1,BEIN AFCON 4 FHD
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035706&extension=ts&play_token=ctKtyL24p3
+#EXTINF:-1,BEIN AFCON 4 4K
+http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035707&extension=ts&play_token=6cZo1LPBhw
