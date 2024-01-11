@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BEIN AFCON 1 SD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035524&extension=ts&play_token=S5m9Wo0lRV
+http://tvpro.vprotv.com:25443/live/00:1A:79:5D:34:12/2891AZJSQK2/124070.ts?play_token=zpL2rryJkY
 #EXTINF:-1,BEIN AFCON 1 SD+ 
 http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035692&extension=ts&play_token=99tW4Bu2oy
 #EXTINF:-1,BEIN AFCON 1 HD
