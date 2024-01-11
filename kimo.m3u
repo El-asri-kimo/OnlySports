@@ -1,55 +1,25 @@
 #EXTM3U
-#EXTINF:-1,BEIN AFCON 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1414639&extension=ts&play_token=hbWm8x790s
-#EXTINF:-1,BEIN AFCON 1 SD+ 
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035692&extension=ts&play_token=99tW4Bu2oy
-#EXTINF:-1,BEIN AFCON 1 HD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035526&extension=ts&play_token=a2zCnNmvfF
-#EXTINF:-1,BEIN AFCON 1 HD+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035694&extension=ts&play_token=utdjRGpiNj
-#EXTINF:-1,BEIN AFCON 1 FHD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035528&extension=ts&play_token=RMVwhhKehU
-#EXTINF:-1,BEIN AFCON 1 FHD+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035694&extension=ts&play_token=2ZDdB3IPC4
-#EXTINF:-1,BEIN AFCON 1 4K
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035530&extension=ts&play_token=JxEARgSQL6
-#EXTINF:-1,BEIN AFCON 1 4K+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035698&extension=ts&play_token=lf1nozf8ty
-#EXTINF:-1,BEIN AFCON 1 HEVC
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035532&extension=ts&play_token=q2kWAkjqmK
-#EXTINF:-1,BEIN AFCON 2 SD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035525&extension=ts&play_token=Ip5tJKcG0L
-#EXTINF:-1,BEIN AFCON 2 SD+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035693&extension=ts&play_token=UWiJMu9fTK
-#EXTINF:-1,BEIN AFCON 2 HD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035527&extension=ts&play_token=zmFSVQfMmq
 #EXTINF:-1,BEIN AFCON 2 HD+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035695&extension=ts&play_token=JwRbzrO04l
-#EXTINF:-1,BEIN AFCON 2 FHD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035529&extension=ts&play_token=BbzbliOKlU
-#EXTINF:-1,BEIN AFCON 2 FHD+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035697&extension=ts&play_token=i17KO1Hl4V
-#EXTINF:-1,BEIN AFCON 2 4K
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035531&extension=ts&play_token=HG5jobAkas
-#EXTINF:-1,BEIN AFCON 2 4K+
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035699&extension=ts&play_token=TqxPr8ttxv
-#EXTINF:-1,BEIN AFCON 2 HEVC
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035533&extension=ts&play_token=1ti2D2qyrj
-#EXTINF:-1,BEIN AFCON 3 SD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035700&extension=ts&play_token=h34zae22As
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1414639&extension=ts&play_token=hbWm8x790s
+#EXTINF:-1,BEIN AFCON 1 HD
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146632?play_token=bJ6RPIVf1w
+#EXTINF:-1,BEIN AFCON 2 HD
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146633?play_token=jjGMCrZiJ7
 #EXTINF:-1,BEIN AFCON 3 HD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035701&extension=ts&play_token=F6EApNuzlw
-#EXTINF:-1,BEIN AFCON 3 FHD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035702&extension=ts&play_token=hj1NcnYFdp
-#EXTINF:-1,BEIN AFCON 3 4K
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035703&extension=ts&play_token=jPGfdLnvR2
-#EXTINF:-1,BEIN AFCON 4 SD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035704&extension=ts&play_token=iriGHO8eVX
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146634?play_token=hENyGUiTkg
 #EXTINF:-1,BEIN AFCON 4 HD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035705&extension=ts&play_token=kakOHpjFjG
-#EXTINF:-1,BEIN AFCON 4 HD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035706&extension=ts&play_token=yX0kzx7cNF
-#EXTINF:-1,BEIN AFCON 4 FHD
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035706&extension=ts&play_token=ctKtyL24p3
-#EXTINF:-1,BEIN AFCON 4 4K
-http://dns.flixip.pro/play/live.php?mac=00:1A:79:49:B2:84&stream=1035707&extension=ts&play_token=6cZo1LPBhw
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146635?play_token=bUdJQr4ZwP
+#EXTINF:-1,BEIN AFCON 1 H265
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146636?play_token=OVnUjj59QK
+#EXTINF:-1,BEIN AFCON 2 H265
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146637?play_token=dYJrddjVkd
+#EXTINF:-1,BEIN AFCON 3 H265
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146638?play_token=a8u1EmffiS
+#EXTINF:-1,BEIN AFCON 4 H265
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146639?play_token=SIW1Q2zf4G
+#EXTINF:-1,BEIN SPORTS News
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/47017?play_token=1WzFoNFXNg
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/6684?play_token=JSBMlLUwqO
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/44487?play_token=IWjqL5ABji
