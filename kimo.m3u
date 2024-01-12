@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,القرآن الكريم - أحمد العجمي
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1387914&extension=ts&play_token=CNO5Clm9Ct
+#EXTINF:-1,KIMO NEWS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1330434&extension=ts&play_token=X6FqvNHXQ8
 #EXTINF:-1,BEIN AFCON 1 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424749&extension=ts&play_token=esUWXWAcGX
 #EXTINF:-1,BEIN AFCON 1 4K
@@ -7,19 +11,27 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424748&ex
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424747&extension=ts&play_token=7B0FkIJXqA
 #EXTINF:-1,BEIN AFCON 1 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424746&extension=ts&play_token=IwSm3laVhY
-#EXTINF:-1,BEIN AFCON 4 HD
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146635?play_token=bUdJQr4ZwP
-#EXTINF:-1,BEIN AFCON 1 H265
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146636?play_token=OVnUjj59QK
-#EXTINF:-1,BEIN AFCON 2 H265
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146637?play_token=dYJrddjVkd
-#EXTINF:-1,BEIN AFCON 3 H265
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146638?play_token=a8u1EmffiS
-#EXTINF:-1,BEIN AFCON 4 H265
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/146639?play_token=SIW1Q2zf4G
-#EXTINF:-1,BEIN SPORTS News
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/47017?play_token=1WzFoNFXNg
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/6684?play_token=JSBMlLUwqO
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://atlas06.xyz/mag00:1A:79:53:14:12/gYlUQbopFE/44487?play_token=IWjqL5ABji
+#EXTINF:-1,BEIN AFCON 2 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424750&extension=ts&play_token=LuuWdVe4B3
+#EXTINF:-1,BEIN AFCON 2 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
+#EXTINF:-1,BEIN AFCON 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424744&extension=ts&play_token=vqF9IhGsIx
+#EXTINF:-1,BEIN AFCON 2 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424743&extension=ts&play_token=DUrsVI3mCI
+#EXTINF:-1,BEIN ASIAN CUP 1 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts&play_token=EKEkjv3WJC
+#EXTINF:-1,BEIN ASIAN CUP 1 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
+#EXTINF:-1,BEIN ASAIN CUP 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424740&extension=ts&play_token=JZMMjNklAR
+#EXTINF:-1,BEIN ASIAN CUP 1 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424739&extension=ts&play_token=NHoRMGt99p
+#EXTINF:-1,BEIN ASIAN CUP 2 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424738&extension=ts&play_token=hpD6HAXXT1
+#EXTINF:-1,BEIN ASIAN CUP 2 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424737&extension=ts&play_token=DJZpxZDyeW
+#EXTINF:-1,BEIN ASAIN CUP 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424736&extension=ts&play_token=zmCYjvTJfy
+#EXTINF:-1,BEIN ASIAN CUP 2 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&extension=ts&play_token=JM0JZEedbC
