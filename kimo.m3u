@@ -35,3 +35,44 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424737&ex
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424736&extension=ts&play_token=zmCYjvTJfy
 #EXTINF:-1,BEIN ASIAN CUP 2 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&extension=ts&play_token=JM0JZEedbC
+
+
+##################
+
+
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",[AF] # ## CUP AFRIQUE # ##[AF]
+http://world-ott.com:8080/alami.mohammed/0661310914/63603
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 1 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63740
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 1 SD
+http://world-ott.com:8080/alami.mohammed/0661310914/63741
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportsAFCON 1 4K
+http://world-ott.com:8080/alami.mohammed/0661310914/63742
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 2 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63743
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 2 SD
+http://world-ott.com:8080/alami.mohammed/0661310914/63744
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportAFCON 2 4K
+http://world-ott.com:8080/alami.mohammed/0661310914/63745
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",AR | BEINSPORTS ASIA 1 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63746
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",AR | BEINSPORTS ASIA 2 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63747
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 3 4K
+http://world-ott.com:8080/alami.mohammed/0661310914/63748
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63749
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 SD
+http://world-ott.com:8080/alami.mohammed/0661310914/63750
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 4K
+http://world-ott.com:8080/alami.mohammed/0661310914/63751
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63752
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 SD
+http://world-ott.com:8080/alami.mohammed/0661310914/63753
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 4K
+http://world-ott.com:8080/alami.mohammed/0661310914/63754
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 6 HD
+http://world-ott.com:8080/alami.mohammed/0661310914/63755
+#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 6 SD
+http://world-ott.com:8080/alami.mohammed/0661310914/63756
