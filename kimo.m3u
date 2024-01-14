@@ -147,3 +147,981 @@ http://mejarserver.online:80/live/8591A584C90D8580FDF367C776ABAA61/24.ts
 http://tvofpalestine.live/live/iraq/mejarserveriraq/431.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN Asia 2
 http://tvofpalestine.live/live/iraq/mejarserveriraq/432.ts
+
+
+###################
+
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",KIMO ASIAN CUP 1 SD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F1:E8:98&stream=1422122&extension=ts&play_token=06Cd4BuHzD
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 BEIN ASIAN CUP  2 SD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F1:E8:98&stream=1422125&extension=ts&play_token=Vl1dQIdMOH
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 BEIN ASIAN CUP  3 SD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:F1:E8:98&stream=1422128&extension=ts&play_token=LIogAKamZn
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR BEIN ASIAN CUP 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422121
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422120
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422125
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422124
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 2 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422123
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 3 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422128
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422127
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN ASIAN CUP 3 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422126
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1414636
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414637
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414638
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 2 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1414639
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414640
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414641
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 3 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1414642
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414643
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 3 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414644
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 4 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1414645
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414646
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR| BEIN SPORTS AFCON 4 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1414647
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS XTRA N (ES) HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1127391
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83953
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83954
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83955
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 6 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83956
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 7 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83957
+#EXTINF:0 tvg-id="ext" group-title="Channels",US| BEIN SPORTS 8 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/83958
+#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="Channels",US| BEIN SPORTS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/45611
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177356
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177357
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177358
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177359
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 6 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177360
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 7 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177361
+#EXTINF:0 tvg-id="ext" group-title="Channels",CA| BEIN SPORTS 8 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/177362
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORT 1 EN FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/483921
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORT 2 EN FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/483920
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORT 1 EN HD
+http://aes1.alphatx.me:80/Ali/Ali1234/49226
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORT 2 EN HD
+http://aes1.alphatx.me:80/Ali/Ali1234/49225
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS AU 1
+http://aes1.alphatx.me:80/Ali/Ali1234/1348093
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS AU 2
+http://aes1.alphatx.me:80/Ali/Ali1234/1348102
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS AU 3
+http://aes1.alphatx.me:80/Ali/Ali1234/1348103
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 1 PREMIUM HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238261
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 2 PREMIUM HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238262
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 3 PREMIUM HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238263
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238265
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238264
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238266
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238267
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238268
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 6 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238269
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 7 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/238270
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 1 EN SD
+http://aes1.alphatx.me:80/Ali/Ali1234/735946
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 2 EN SD
+http://aes1.alphatx.me:80/Ali/Ali1234/735945
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK| BEIN SPORTS 3 EN SD
+http://aes1.alphatx.me:80/Ali/Ali1234/735944
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",##### BEIN SPORTS ASIA #####
+http://aes1.alphatx.me:80/Ali/Ali1234/923433
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",UK| BEIN SPORTS ASIA 1
+http://aes1.alphatx.me:80/Ali/Ali1234/923432
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",UK| UK| BEIN SPORTS ASIA 2
+http://aes1.alphatx.me:80/Ali/Ali1234/923431
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",UK| UK| BEIN SPORTS ASIA 3
+http://aes1.alphatx.me:80/Ali/Ali1234/923430
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AU| BEIN SPORTS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/646977
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AU| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/646976
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AU| BEIN SPORTS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/646975
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN MOVIES PREMIERE HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913328
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN MOVIES PREMIERE 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913327
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SERIES 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913325
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SERIES 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913326
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SERIES 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913323
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SERIES 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913324
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN BOX OFFICE 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1175357
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN BOX OFFICE 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1175356
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN BOX OFFICE 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1175355
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/913458
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 2
+http://aes1.alphatx.me:80/Ali/Ali1234/913455
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913456
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 2 HD 1080
+http://aes1.alphatx.me:80/Ali/Ali1234/913445
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913454
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 3 HD 1080
+http://aes1.alphatx.me:80/Ali/Ali1234/913444
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/913453
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 4 HD 1080
+http://aes1.alphatx.me:80/Ali/Ali1234/913443
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 5 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1091502
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS 5 + FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1091501
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS MAX 1 HD 720
+http://aes1.alphatx.me:80/Ali/Ali1234/913452
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS MAX 1 HD 1080
+http://aes1.alphatx.me:80/Ali/Ali1234/913442
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS MAX 2 HD 720
+http://aes1.alphatx.me:80/Ali/Ali1234/913451
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",TR| BEIN SPORTS MAX 2 HD 1080
+http://aes1.alphatx.me:80/Ali/Ali1234/913441
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 AFCON 8K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424749
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 AFCON 4K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424748
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 AFCON ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424747
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 AFCON
+http://aes1.alphatx.me:80/Ali/Ali1234/1424746
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 AFCON 8K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424750
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 AFCON 4K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424745
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 AFCON ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424744
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 AFCON
+http://aes1.alphatx.me:80/Ali/Ali1234/1424743
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 ASIANCUP 8K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424742
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 ASIANCUP 4K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424741
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 ASIANCUP ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424740
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 ASIANCUP
+http://aes1.alphatx.me:80/Ali/Ali1234/1424739
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 ASIANCUP 8K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424738
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 ASIANCUP 4K ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424737
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 ASIANCUP ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1424736
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 ASIANCUP
+http://aes1.alphatx.me:80/Ali/Ali1234/1424735
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422143
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422142
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422141
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422146
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422145
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 2 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422144
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 3 EN SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422148
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 3 EN HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422149
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 3 EN 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422147
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 4 FR SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422152
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 4 FR HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422151
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCON 4 FR 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422150
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422131
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422130
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422129
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422134
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422133
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422132
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422137
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422136
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 2 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422135
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 3 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422140
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422139
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFC 3 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1422138
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN ASIAN CUP 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1422122
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411398
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411397
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS1 ᵁᴴᴰ8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411396
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS2 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411395
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS3 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411394
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS4 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411393
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS5 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411392
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS6 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411391
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS7 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411390
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS8 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411389
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS9 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411388
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS MAX1 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411387
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS MAX2 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411386
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411385
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411384
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS1 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411383
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS2 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411382
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS3 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411381
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS4 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411380
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS5 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411379
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS6 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411378
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS7 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411377
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS8 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411376
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS9 ᵁᴴᴰ 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1411375
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS1 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411374
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS2 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411373
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS3 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411372
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS4 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411371
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS5 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411370
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS6 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411369
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS7 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411368
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS8 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411367
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",BEIN SPORTS9 Gᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1411366
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363480
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363481
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 3ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363482
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 4ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363483
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 5ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363484
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 6ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363485
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 7ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363486
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 8ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363487
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 9ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363488
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363489
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363490
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363491
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363492
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363493
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS ASIA",AR| BEIN SPORTS XTRA 3ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363494
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",### BEIN SPORTS FHD ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294774
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
+http://aes1.alphatx.me:80/Ali/Ali1234/1347222
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334894
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334895
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334896
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS NEWS FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294773
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294772
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294764
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294763
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294762
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 4 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294761
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 5 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294760
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 6 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294759
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 7 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294758
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 8 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330412
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 9 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330413
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294895
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294894
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330411
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 ENGLISH FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330419
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 ENGLISH FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330418
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330417
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330416
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330415
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS NBA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330414
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",### BEIN SPORTS FHD ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294774
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| TOD 360 ULTRA 4K ( EVENT ONLY )
+http://aes1.alphatx.me:80/Ali/Ali1234/1347222
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334894
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334895
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1334896
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS NEWS FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294773
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS GLOBAL FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294772
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294764
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294763
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294762
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 4 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294761
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 5 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294760
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 6 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294759
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 7 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294758
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 8 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330412
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR|  BEIN  SPORTS 9 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330413
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294895
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1294894
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 XSTRA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330411
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 ENGLISH FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330419
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 ENGLISH FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330418
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 1 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330417
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 2 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330416
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS 3 FRANCE FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330415
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| BEIN SPORTS NBA FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330414
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",### BEIN SPORTS HEVC ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294788
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330433
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330432
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 3 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330431
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 4 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330430
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 5 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330429
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 6 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330428
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 7 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330427
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 8 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330426
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 9 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330425
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330424
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330423
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 3 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330422
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 ENGLISH HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330421
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 ENGLISH HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330420
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",### BEIN SPORTS HEVC ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294788
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330433
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330432
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 3 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330431
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 4 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330430
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 5 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330429
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 6 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330428
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 7 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330427
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 8 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330426
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 9 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330425
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330424
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330423
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 3 XTRA HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330422
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 1 ENGLISH HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330421
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HEVC",AR| BEIN SPORTS 2 ENGLISH HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/1330420
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",### BEIN SPORTS HD ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294822
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363480
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363481
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 3ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363482
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 4ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363483
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 5ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363484
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 6ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363485
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 7ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363486
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 8ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363487
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 9ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363488
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363489
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1 AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363490
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2 AFCᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363491
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS XTRA 1ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363492
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS XTRA 2ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363493
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS XTRA 3ᵁᴴᴰ
+http://aes1.alphatx.me:80/Ali/Ali1234/1363494
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",### BEIN SPORTS HD ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294822
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| STC PPV [LIVE-EVENTS]
+http://aes1.alphatx.me:80/Ali/Ali1234/1356796
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| TOD 360 HD ( EVENT ONLY )
+http://aes1.alphatx.me:80/Ali/Ali1234/1347223
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NEWS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330434
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS GLOBAL HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330435
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330437
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330438
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330439
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330440
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330441
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 6 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330442
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 7 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330443
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 8 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330444
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 9 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330445
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1 XTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330446
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2 XTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330447
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 3 XTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330448
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1 ENGLISH HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330449
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2 ENGLISH HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330450
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 1 FRANCE HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330451
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 2 FRANCE HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330452
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS 3 FRANCE HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330453
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",AR| BEIN SPORTS NBA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330454
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",### BEIN SPORTS LQ ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1330486
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS NEWS LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330471
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS GLOBAL LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330472
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 1 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330474
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 2 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330475
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 3 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330476
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 4 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330477
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 5 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330478
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 6 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330479
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 7 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330480
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 8 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330481
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 9 LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330482
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 1 XTRA LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330483
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 2 XTRA LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330484
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS LQ",AR| BEIN SPORTS 3 XTRA LQ
+http://aes1.alphatx.me:80/Ali/Ali1234/1330485
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",### BEIN SPORTS SD ###
+http://aes1.alphatx.me:80/Ali/Ali1234/1294856
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| TOD 360 SD ( EVENT ONLY )
+http://aes1.alphatx.me:80/Ali/Ali1234/1347224
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS NEWS SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330455
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS GLOBAL SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330456
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330457
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330458
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 3 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330459
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 4 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330460
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 5 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330461
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 6 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330462
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 7 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330463
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 8 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330464
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 9 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330465
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 1 XTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330466
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 2 XTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330467
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 3 XTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330468
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 1 ENGLISH SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330469
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS SD",AR| BEIN SPORTS 2 ENGLISH SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1330470
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",#### BEIN ENTERTAINMANT ####
+http://aes1.alphatx.me:80/Ali/Ali1234/1141584
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN PREMIERE 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141583
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN MOVIES 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356721
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN MOVIES 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356720
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN MOVIES 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356719
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN MOVIES 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356718
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN ACTION 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141582
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN DRAMA 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141581
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FAMILY 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141580
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN SERIES 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141579
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN SERIES 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141578
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN DRAMA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141577
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN GOURMET HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141575
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FATAFEET
+http://aes1.alphatx.me:80/Ali/Ali1234/1141574
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FOX HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356723
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FOX LIFE
+http://aes1.alphatx.me:80/Ali/Ali1234/1141572
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FOX MOVIES HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141571
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FOX ACTION HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141570
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN STAR WORLD HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141568
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN STAR MOVIES HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356722
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN ANIMAL PLANET HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356726
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN BBC EARTH HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141567
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN NATIONAL GEO HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141564
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN NATIONAL GEO WILD HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141563
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN TRAVEL HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356725
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN FOOD NETWORK HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356724
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN HGTV HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141561
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN BABY TV  HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141560
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN JEEM KIDS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141559
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN BARAEM KIDS
+http://aes1.alphatx.me:80/Ali/Ali1234/1141558
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN DREAM WORK HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141557
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN GULLI ARABIC HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141556
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN BOOMERANG HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141555
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN JUNIOR KIDS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141554
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN CARTOON NETWORK HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141553
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMANT",AR| BEIN DISCOVERY FAMILY HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141562
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",###### SPORT ######
+http://aes1.alphatx.me:80/Ali/Ali1234/591605
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591593
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 1 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591592
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591591
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 2 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591590
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 3 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/787905
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/787903
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 4 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591588
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591589
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591587
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 6 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/787906
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 9 HD (LIVE EVENT ONLY)
+http://aes1.alphatx.me:80/Ali/Ali1234/1186269
+#EXTINF:0 tvg-id="ext" group-title="SPORT",###### SPORT ######
+http://aes1.alphatx.me:80/Ali/Ali1234/591605
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591593
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 1 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591592
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591591
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 2 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591590
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 3 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/787905
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/787903
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 4 HEVC
+http://aes1.alphatx.me:80/Ali/Ali1234/591588
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591589
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/591587
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 6 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/787906
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR| AL KASS 9 HD (LIVE EVENT ONLY)
+http://aes1.alphatx.me:80/Ali/Ali1234/1186269
+
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",###### STARZPLAY / AD SPORT ######
+http://aes1.alphatx.me:80/Ali/Ali1234/988043
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ARABIC UFC EVENT 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1371242
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ARABIC UFC EVENT 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1371241
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ARABIC UFC EVENT 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1371240
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORT 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/988032
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORT 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/988033
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORT 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/988034
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORT 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/988035
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORT 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/988036
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORTS 1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993327
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORTS 2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993328
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / AD SPORTS 3 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993329
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / CRLIFE 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/994886
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / CRLIFE 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/994887
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / CRLIFE 1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/996658
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / CRLIFE 2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/996657
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| STARZPLAY / GOLF TV HD
+http://aes1.alphatx.me:80/Ali/Ali1234/994888
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| AD SPORT ASIA 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/993331
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| AD SPORT ASIA 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/993333
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| AD SPORT ASIA 1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993330
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| AD SPORT ASIA 2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993332
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ABU DHABI SPORT 1
+http://aes1.alphatx.me:80/Ali/Ali1234/993336
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ABU DHABI SPORT1 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993335
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ABU DHABI SPORT1 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993334
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ABU DHABI SPORT2 UHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993338
+#EXTINF:0 tvg-id="ext" group-title="STARZPLAY / AD SPORT",AR| ABU DHABI SPORT2 FHD
+http://aes1.alphatx.me:80/Ali/Ali1234/993337
+
+#EXTINF:0 tvg-id="ext" group-title="SSC",##### SSC #####
+http://aes1.alphatx.me:80/Ali/Ali1234/876551
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC NEWS 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002804
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC NEWS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002803
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4K+ 2160P
+http://aes1.alphatx.me:80/Ali/Ali1234/1324685
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4K 1920P
+http://aes1.alphatx.me:80/Ali/Ali1234/1324684
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4K 1280P
+http://aes1.alphatx.me:80/Ali/Ali1234/1324683
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4K 720P
+http://aes1.alphatx.me:80/Ali/Ali1234/1324682
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002802
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002801
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002800
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 EXTRA 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002798
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 EXTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002797
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 1 EXTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002796
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002794
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002793
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002792
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 EXTRA 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002790
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 EXTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002789
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 2 EXTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002788
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002786
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002785
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002784
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 EXTRA 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002782
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 EXTRA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002781
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 3 EXTRA SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002780
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002779
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002778
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 4 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002777
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 5 4K
+http://aes1.alphatx.me:80/Ali/Ali1234/1002775
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 5 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002774
+#EXTINF:0 tvg-id="ext" group-title="SSC",VIP| SSC 5 SD
+http://aes1.alphatx.me:80/Ali/Ali1234/1002773
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN MOVIES 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356721
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN MOVIES 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356720
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN MOVIES 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356719
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN MOVIES 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356718
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN ACTION 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141582
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN DRAMA 3 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141581
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FAMILY 4 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141580
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN SERIES 1 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141579
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN SERIES 2 HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141578
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN DRAMA HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141577
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN GOURMET HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141575
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FATAFEET
+http://aes1.alphatx.me:80/Ali/Ali1234/1141574
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FOX HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356723
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FOX LIFE
+http://aes1.alphatx.me:80/Ali/Ali1234/1141572
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FOX MOVIES HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141571
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FOX ACTION HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141570
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN STAR WORLD HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141568
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN STAR MOVIES HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356722
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN ANIMAL PLANET HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356726
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN BBC EARTH HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141567
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN NATIONAL GEO HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141564
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN NATIONAL GEO WILD HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141563
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN TRAVEL HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356725
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN FOOD NETWORK HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1356724
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN HGTV HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141561
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN BABY TV  HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141560
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN JEEM KIDS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141559
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN BARAEM KIDS
+http://aes1.alphatx.me:80/Ali/Ali1234/1141558
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN DREAM WORK HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141557
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN GULLI ARABIC HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141556
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN BOOMERANG HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141555
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN JUNIOR KIDS HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141554
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN CARTOON NETWORK HD AR AUDIO
+http://aes1.alphatx.me:80/Ali/Ali1234/1141553
+#EXTINF:0 tvg-id="ext" group-title="SSC",AR| BEIN DISCOVERY FAMILY HD
+http://aes1.alphatx.me:80/Ali/Ali1234/1141562
