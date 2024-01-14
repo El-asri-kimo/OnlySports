@@ -40,39 +40,100 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&ex
 ##################
 
 
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",[AF] # ## CUP AFRIQUE # ##[AF]
-http://world-ott.com:8080/alami.mohammed/0661310914/63603
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 1 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63740
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 1 SD
-http://world-ott.com:8080/alami.mohammed/0661310914/63741
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportsAFCON 1 4K
-http://world-ott.com:8080/alami.mohammed/0661310914/63742
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 2 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63743
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN Sports AFCON 2 SD
-http://world-ott.com:8080/alami.mohammed/0661310914/63744
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportAFCON 2 4K
-http://world-ott.com:8080/alami.mohammed/0661310914/63745
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",AR | BEINSPORTS ASIA 1 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63746
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",AR | BEINSPORTS ASIA 2 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63747
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 3 4K
-http://world-ott.com:8080/alami.mohammed/0661310914/63748
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63749
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 SD
-http://world-ott.com:8080/alami.mohammed/0661310914/63750
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 4 4K
-http://world-ott.com:8080/alami.mohammed/0661310914/63751
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63752
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 SD
-http://world-ott.com:8080/alami.mohammed/0661310914/63753
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 5 4K
-http://world-ott.com:8080/alami.mohammed/0661310914/63754
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 6 HD
-http://world-ott.com:8080/alami.mohammed/0661310914/63755
-#EXTINF:0 tvg-id="ext" group-title="[AF] # ## CUP AFRIQUE # ##[AF]",beIN SportSMAX 6 SD
-http://world-ott.com:8080/alami.mohammed/0661310914/63756
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",---??| BEIN SPORT |??---
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/22460.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124070.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124071.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124072.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124073.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124074.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124075.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124076.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124077.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124078.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124079.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124080.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124081.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124082.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124083.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124084.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124085.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124086.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124087.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124088.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124089.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124090.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124091.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124092.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124093.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124094.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310036.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124096.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/152293.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/248954.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/248955.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 3 SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310037.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 3 HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310038.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 3 FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310039.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 3 FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310040.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 3 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310041.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9152.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/92512.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS GLOBAL
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9156.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS GLOBAL HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/30750.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS GLOBAL FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/92511.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/32008.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9146.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 HD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9131.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9147.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD HEVC
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/39224.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD 4K
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/30756.ts
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS  2 SD
+http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/32007.ts
