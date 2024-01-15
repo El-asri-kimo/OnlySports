@@ -37,7 +37,20 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424736&ex
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&extension=ts&play_token=JM0JZEedbC
 
 
+
+
+#EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428646&extension=ts&play_token=bgyNMU6U1p
+#EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428647&extension=ts&play_token=7TqEvy8GdO
+#EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428648&extension=ts&play_token=mfsSmNYj1Z
+
+
 ##################
+
+
+
 
 
 
