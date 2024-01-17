@@ -1,42 +1,44 @@
 #EXTM3U
-#EXTINF:-1,القرآن الكريم - أحمد العجمي
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| القرآن الكريم - أحمد العجمي
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1387914&extension=ts&play_token=CNO5Clm9Ct
-#EXTINF:-1,KIMO NEWS
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| KIMO NEWS
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1330434&extension=ts&play_token=X6FqvNHXQ8
-#EXTINF:-1,BEIN AFCON 1 UHD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 1 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424749&extension=ts&play_token=esUWXWAcGX
-#EXTINF:-1,BEIN AFCON 1 4K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 1 4K
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424748&extension=ts&play_token=NqBmilWAAT
-#EXTINF:-1,BEIN AFCON 1 HD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 1 HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424747&extension=ts&play_token=7B0FkIJXqA
-#EXTINF:-1,BEIN AFCON 1 SD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 1 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424746&extension=ts&play_token=IwSm3laVhY
-#EXTINF:-1,BEIN AFCON 2 UHD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 2 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424750&extension=ts&play_token=LuuWdVe4B3
-#EXTINF:-1,BEIN AFCON 2 4K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 2 4K
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
-#EXTINF:-1,BEIN AFCON 2 HD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 2 HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424744&extension=ts&play_token=vqF9IhGsIx
-#EXTINF:-1,BEIN AFCON 2 SD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN AFCON 2 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424743&extension=ts&play_token=DUrsVI3mCI
-#EXTINF:-1,BEIN ASIAN CUP 1 UHD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 1 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts&play_token=EKEkjv3WJC
-#EXTINF:-1,BEIN ASIAN CUP 1 4K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 1 4K
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
-#EXTINF:-1,BEIN ASAIN CUP 1 HD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASAIN CUP 1 HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424740&extension=ts&play_token=JZMMjNklAR
-#EXTINF:-1,BEIN ASIAN CUP 1 SD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 1 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424739&extension=ts&play_token=NHoRMGt99p
-#EXTINF:-1,BEIN ASIAN CUP 2 UHD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 2 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424738&extension=ts&play_token=hpD6HAXXT1
-#EXTINF:-1,BEIN ASIAN CUP 2 4K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 2 4K
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424737&extension=ts&play_token=DJZpxZDyeW
-#EXTINF:-1,BEIN ASAIN CUP 2 HD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASAIN CUP 2 HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424736&extension=ts&play_token=zmCYjvTJfy
-#EXTINF:-1,BEIN ASIAN CUP 2 SD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| BEIN ASIAN CUP 2 SD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&extension=ts&play_token=JM0JZEedbC
-
-
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| ARRIADIA TNT HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=969051&extension=ts&play_token=jaEE0gAt2r
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS",AR| AL AOULA TNT FHD 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=21698&extension=ts&play_token=zliNJpUPIi
 
 
 #EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 4K
