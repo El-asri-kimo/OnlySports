@@ -53,6 +53,160 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428648&ex
 
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1  SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035328.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 SD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037018.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 HD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037019.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035322.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 4K+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 FHD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037020.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 SD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037022.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035327.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 HD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037023.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035323.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 FHD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 4K+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037025.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 2 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 3 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037026.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 3 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037027.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 3 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037028.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 3 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 4 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037030.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 4 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037031.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 4 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037032.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 4 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1037033.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 1 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035337.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 1 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035336.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 1 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035332.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 1 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 1 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035330.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 2 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035339.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 2 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035338.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 2 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035333.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 2 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035335.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS ASIAN CUP",BEIN ASIAN CUP 2 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035331.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1  SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035524.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 SD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035692.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035526.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 HD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035694.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035528.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 FHD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035530.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 4K+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035698.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 1 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035532.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035525.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 SD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035693.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035527.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 HD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035695.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035529.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 FHD+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035697.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035531.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 4K+
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035699.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 3 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 3 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035701.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 3 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 3 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035703.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 4 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035704.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 4 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035705.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 4 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035706.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 4 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035707.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  AFCON 2024  ⚽",BEIN AFCON 2 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035533.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 1 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035534.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 1 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035536.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 1 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035538.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 1 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035540.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 1 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035542.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 2 SD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035535.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 2 HD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035537.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 2 FHD
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035539.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 2 4K
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035541.m3u8
+#EXTINF:0 tvg-id="ext" group-title="⚽  ASIAN CUP 2024  ⚽",BEIN ASIAN CUP 2 HEVC
+http://fr.nettv.icu:80/live/bouchra002/gvqp3y5fhq/1035543.m3u8
+
+
+##################
+
+
+
 
 
 
