@@ -52,6 +52,168 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428648&ex
 ##################
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein News
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238892.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238893.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238894.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 3
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 4
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 5
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238897.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 6
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238898.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 7
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238899.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 8
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport 9
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238901.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport Xtra 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT 4K  | بي ان سبورت",4K | Bein Sport Xtra 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/238907.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT  1 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/211922.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 2 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/211923.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 3 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/211924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 4 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/212754.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 5 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/212755.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 6 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/212756.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS [BT]",BEIN SPORT 7 BT
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/212757.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215373.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215374.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 3
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215375.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 4
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215376.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 5
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215377.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 6
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215378.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 7
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215379.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 9
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215380.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS 8
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215381.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS EXTRA 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/216628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS EXTRA 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/216629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT FHD | بي ان سبورت",FHD | BE SPORTS EXTRA 3
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/216630.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215357.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215358.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 3
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215366.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 4
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 5
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215361.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 6
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215362.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 7
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215363.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 8
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215364.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT HD | بي ان سبورت",HD | BE SPORTS 9
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215365.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 1
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215348.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 2
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215349.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 3
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215350.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 4
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215351.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 5
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215352.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 6
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215353.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 7
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215354.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 8
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215355.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT SD | بي ان سبورت",SD | BE SPORTS 9
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/215356.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",Asia Kass Extra1 HD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/244009.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",Asia Kass Extra2 HD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/244010.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 1 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239307.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 1 HD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239308.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 1 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239309.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 1 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239310.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 2 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239311.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 2 HD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 2 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239313.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT AFC |  امم اسيا",beIN ASIAN CUP 2 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239314.m3u8
+
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 1 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 2 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239292.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 3 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239293.m3u8
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 4 FHD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239294.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 1 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239295.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 2 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239296.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 3 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239297.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 4 HEVC
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239298.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 1 4K
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239299.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 2 4K
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239300.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 3 4K
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239301.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 4 4K
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239302.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 1 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239303.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 2 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239304.m3u8
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 3 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239305.m3u8
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="BEIN SPORT MAX | امم افريقيا",beIN SPORTS MAX 4 SD
+http://mixatk.net:80/live/0033771171526/xu7UxW0gq8/239306.m3u8
+
+
+
+############$$$$$$$$
+
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS AFCON",BEIN AFCON 1  SD
