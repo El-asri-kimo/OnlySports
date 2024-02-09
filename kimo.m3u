@@ -68,6 +68,13 @@ http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016913&extensi
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016914&extension=ts&play_token=ffnXECRQU7
 #EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 9 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016915&extension=ts&play_token=GCqi5H101a
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| NRT SPORT HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987946&extension=ts&play_token=fwyW22uq7Y
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| SEE SPORT 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987943&extension=ts&play_token=wmuJuFNMZL
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| DUHOK SPORT 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987920&extension=ts&play_token=ZLVVcahC0E
+
 
 
 #########################
@@ -119,8 +126,37 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724496&ext
 #EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 8 HD [LIVE EVENT]
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724495&extension=ts&play_token=kRUb5lAncP
 
+
+##################
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 1 HD
+http://atlas06.xyz/mag00:1A:79:A8:86:7F/JyRXcKBsFT/144508?play_token=EAfMOcCU6y
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 2 HD
+http://atlas06.xyz/mag00:1A:79:A8:86:7F/JyRXcKBsFT/144501?play_token=sfVyjXnErD
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 3 HD
+##################
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORTS 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98306&extension=ts&play_token=QKVELXlx4u
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORTS 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98307&extension=ts&play_token=GkysfPO6cY
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORT 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98258&extension=ts&play_token=TrusR2GDvn
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORT 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98259&extension=ts&play_token=qRnK5B5NyN
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORT 3 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438026&extension=ts&play_token=jBveVJhN2b
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS",NOVA SPORT 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438027&extension=ts&play_token=hm5l2xru2H
+
+
 ##################
 
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS",ARENA SPORT 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1437999&extension=ts&play_token=s1AYV7cPCA
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS",ARENA SPORT 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438000&extension=ts&play_token=eG4JY1WK1o
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS",ARENA 4 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=647110&extension=ts&play_token=bW2hLoSaSx
+##################
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title=" BEIN SPORTS⚽️ FHD بي إن سبورت ",BS| beIN SPORTS NEWS FHD
