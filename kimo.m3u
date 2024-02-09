@@ -42,31 +42,31 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=21698&exte
 #######################
 
 
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN Max 1 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN Max 1 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016916&extension=ts&play_token=MB8Mzy6nDU
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN Max 2 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN Max 2 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016917&extension=ts&play_token=VjgMYpaTMN
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN XTRA 1 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN XTRA 1 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016918&extension=ts&play_token=I1MLKlcZWT
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN XTRA 2 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN XTRA 2 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016919&extension=ts&play_token=f0ukqVuVtF
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 1 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 1 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016907&extension=ts&play_token=bhg4CIqiKC
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 2 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 2 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016908&extension=ts&play_token=Uh3hZSngD5
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 3 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 3 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016909&extension=ts&play_token=v4sRSDfpGY
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 4 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 4 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016910&extension=ts&play_token=PIxkcOwMXa
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 5 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 5 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016911&extension=ts&play_token=nnjYrr91Bx
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 6 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 6 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016912&extension=ts&play_token=LRHsERHZDY
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 7 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 7 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016913&extension=ts&play_token=ZrIFQFZk1X
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 8 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 8 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016914&extension=ts&play_token=ffnXECRQU7
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 8K",AR| BEIN SPORTS 9 8K
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| BEIN SPORTS 9 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016915&extension=ts&play_token=GCqi5H101a
 
 
@@ -78,7 +78,46 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428646&ex
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428647&extension=ts&play_token=7TqEvy8GdO
 #EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428648&extension=ts&play_token=mfsSmNYj1Z
+####################
 
+
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC SPORTS NEWS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002804&extension=ts&play_token=X9Xyc5HTz6
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC 1 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002802&extension=ts&play_token=slKEEIVd2q
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC 2 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002794&extension=ts&play_token=ZCy5nh14Lw
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC 3 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002786&extension=ts&play_token=cVGXdFfXD4
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC 4 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002779&extension=ts&play_token=vpxytkaiCN
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC 5 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1002775&extension=ts&play_token=VSAVQSM4JP
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC EXTRA 1 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1433966&extension=ts&play_token=hAlRx98R9v
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC EXTRA 2 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1433956&extension=ts&play_token=B4RnnJDSi2
+#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS",AR| SSC EXTRA 3 4K
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1433964&extension=ts&play_token=dy3b2qsn9B
+
+#################
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 1 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724502&extension=ts&play_token=YBFS9nkEZu
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 2 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724501&extension=ts&play_token=cD2sg1IZ46
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 3 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724500&extension=ts&play_token=5LWcVAwaI7
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 4 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724499&extension=ts&play_token=xkulh423Ne
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 5 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724498&extension=ts&play_token=i0PqEb32CB
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 6 HD [LIVE EVENT] 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724497&extension=ts&play_token=aFAFphABti
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 7 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724496&extension=ts&play_token=BzWD8EQa6x
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 8 HD [LIVE EVENT]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724495&extension=ts&play_token=kRUb5lAncP
 
 ##################
 
