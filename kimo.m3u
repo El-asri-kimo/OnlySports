@@ -74,9 +74,13 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987946&ext
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987943&extension=ts&play_token=wmuJuFNMZL
 #EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| DUHOK SPORT 
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=987920&extension=ts&play_token=ZLVVcahC0E
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| ASTERA SPORT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=324619&extension=ts&play_token=AXpwk0q1Wu
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| DASINYA SPORT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=324686&extension=ts&play_token=qMyL2ZX3JU
 
-
-
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD",AR| Tv+
+http://tvpro.vprotv.com:25443/live/00:1A:79:5D:34:12/2891AZJSQK2/58878.ts?play_token=GBPH5C74xe
 #########################
 
 #EXTINF:0 tvg-id="ext" group-title="AL KASS",AR| AL KASS EXTRA 1 4K
