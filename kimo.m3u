@@ -204,10 +204,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330478
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330479&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS HD 7
 http://mejarserver.online:80/live/8591A584C90D8580FDF367C776ABAA61/24.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN Asia 1
-http://tvofpalestine.live/live/iraq/mejarserveriraq/431.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN Asia 2
-http://tvofpalestine.live/live/iraq/mejarserveriraq/432.ts
+
 
 
 ###################
