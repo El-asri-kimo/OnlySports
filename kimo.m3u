@@ -1,47 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏 ",AR| القرآن الكريم - أحمد العجمي
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏 ",AR| القرآن الكريم - أحمد العجمي
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1387914&extension=ts&play_token=CNO5Clm9Ct
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| KIMO NEWS
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| KIMO NEWS
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1330434&extension=ts&play_token=X6FqvNHXQ8
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 1 UHD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424749&extension=ts&play_token=esUWXWAcGX
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 1 4K
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424748&extension=ts&play_token=NqBmilWAAT
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424747&extension=ts&play_token=7B0FkIJXqA
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424746&extension=ts&play_token=IwSm3laVhY
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 2 UHD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424750&extension=ts&play_token=LuuWdVe4B3
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 2 4K
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424744&extension=ts&play_token=vqF9IhGsIx
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN AFCON 2 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424743&extension=ts&play_token=DUrsVI3mCI
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 1 UHD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424742&extension=ts&play_token=EKEkjv3WJC
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 1 4K
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424741&extension=ts&play_token=nRT2hLOLDI
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASAIN CUP 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424740&extension=ts&play_token=JZMMjNklAR
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424739&extension=ts&play_token=NHoRMGt99p
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 2 UHD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424738&extension=ts&play_token=hpD6HAXXT1
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 2 4K
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424737&extension=ts&play_token=DJZpxZDyeW
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASAIN CUP 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424736&extension=ts&play_token=zmCYjvTJfy
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| BEIN ASIAN CUP 2 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1424735&extension=ts&play_token=JM0JZEedbC
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| ARRIADIA TNT HD
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| ARRIADIA TNT HD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=969051&extension=ts&play_token=jaEE0gAt2r
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS 🌏",AR| AL AOULA TNT FHD 
+#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| AL AOULA TNT FHD 
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=21698&extension=ts&play_token=zliNJpUPIi
-#######################
-
-
 #EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN Max 1 UHD
 http://titaneiptv.xyz/play/live.php?mac=00:1A:79:02:FE:01&stream=1016916&extension=ts&play_token=MB8Mzy6nDU
 #EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN Max 2 UHD
@@ -196,62 +161,6 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=993333&ext
 
 ##################
 
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",---??| BEIN SPORT |??---
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/22460.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124070.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124071.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124072.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124073.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 MAX 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124074.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124075.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124076.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124077.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124078.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 2 MAX 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124079.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124080.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124081.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124082.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124083.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 3 MAX 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124084.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124085.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124086.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124087.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124088.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 4 MAX 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124089.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 1 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124094.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/310036.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/124096.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/152293.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/248954.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS ASIAN CUP 2 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/248955.ts
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS HD
 http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9152.ts
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS FHD
@@ -306,46 +215,6 @@ http://tvofpalestine.live/live/iraq/mejarserveriraq/432.ts
 
 
 ###################
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] * Bein Sport AFC
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131000
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] * Bein Sport AFC 1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131001
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] * Bein Sport AFC 2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131002
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] * Bein Sport AFC 3
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131003
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",Bein Sport Asian Cup 1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131004
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",Bein Sport Asian Cup 2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131005
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] World Cup Sum (TS)
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131006
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",[SPO**] World Cup Sum (Rec)
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/131007
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 2 4K
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133104
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 1 4K
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133103
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 2 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133102
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 1 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133101
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 2 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133100
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 1 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133099
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 2 SD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133098
-#EXTINF:0 tvg-id="ext" group-title="Bein Africa And Asia",BEIN AFCON 1 SD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/133097
 
 
 #EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS NEWS HD
