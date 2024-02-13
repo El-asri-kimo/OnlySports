@@ -153,16 +153,15 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=993333&ext
 
 ###################
 
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ 🌏",AF| CANAL+ 1
-http://iptvtree.net:8080/live/9RccM1lToK/XURfvfLBEB/297375.ts
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ 🌏",AF| CANAL+ 2
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368899&extension=ts&play_token=4PbgFHxObC&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368900&extension=ts&play_token=LpBDyyiExR&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ 🌏",AF| CANAL+ 3
-http://iptvtree.net:8080/live/9RccM1lToK/XURfvfLBEB/297377.ts
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ 🌏",AF| CANAL+ 4
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=457085&extension=ts&play_token=OtTbZ1GbaW&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368902&extension=ts&play_token=8tXGqBgZem&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ 🌏",AF| CANAL+ 5
-http://iptvtree.net:8080/live/9RccM1lToK/XURfvfLBEB/297383.ts
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368903&extension=ts&play_token=Ctx5mX0zOm&sn2=
 
 
