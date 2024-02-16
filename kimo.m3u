@@ -43,12 +43,16 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=324686&ext
 
 #########################
 
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 1 4K
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428646&extension=ts&play_token=bgyNMU6U1p
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428647&extension=ts&play_token=7TqEvy8GdO
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1428648&extension=ts&play_token=mfsSmNYj1Z
+#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=591593&extension=ts&play_token=sODBrcU8zT
+#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=591591&extension=ts&play_token=12kPwD7wN5
+#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=787905&extension=ts&play_token=cGt0k3nKKV
+
+
+
+
 ####################
 
 
@@ -165,6 +169,62 @@ http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355926&ext
 http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355927&extension=ts&play_token=elZit9L1X3
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ CAN
 http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=1428895&extension=ts&play_token=bhU6uISh2F
+
+##################
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",BEIN SPORTS Ñ
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1127391&extension=ts&play_token=9tYJBlA4j6
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",AFN SPORT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1099330&extension=ts&play_token=iD4NXUPYzs
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",OLYMPIC CHANNEL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=806919&extension=ts&play_token=TTk3QOPlPe
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT NEWS FHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235955&extension=ts&play_token=DNoiuwRT3b
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT TOP EVENT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235941&extension=ts&play_token=hWngaq7vzG
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT PL
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235927&extension=ts&play_token=KRdzeAw31u
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT MIX
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235913&extension=ts&play_token=XfDT6f0p86
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT F1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235899&extension=ts&play_token=zK9Gk9DOzJ
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT GOLF
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235885&extension=ts&play_token=w27KO3Dz7q
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT TENNIS
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235871&extension=ts&play_token=KrnlzHQTxR
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038922&extension=ts&play_token=AzO8BsqXaa
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038921&extension=ts&play_token=eJl2KVSGlc
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038920&extension=ts&play_token=ZPLeGn7ixO
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",UFC 24/7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1395687&extension=ts&play_token=cXva9XVn5f
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",VIAPLAY
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1450252&extension=ts&play_token=yOGI9Vg5I1
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
+
+
+
 
 ##################
 
