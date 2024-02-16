@@ -156,14 +156,15 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=993333&ext
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368899&extension=ts&play_token=4PbgFHxObC&sn2=
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368900&extension=ts&play_token=LpBDyyiExR&sn2=
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355924&extension=ts&play_token=LlqTDzuHjl
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 3
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=457085&extension=ts&play_token=OtTbZ1GbaW&sn2=
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355925&extension=ts&play_token=m2de9QNo7C
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368902&extension=ts&play_token=8tXGqBgZem&sn2=
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355926&extension=ts&play_token=ynf6sDZDCA
 #EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 5
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368903&extension=ts&play_token=Ctx5mX0zOm&sn2=
-
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355926&extension=ts&play_token=HlvlywwpdB
+#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ CAN
+http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=1428895&extension=ts&play_token=bhU6uISh2F
 
 ##################
 
