@@ -31,9 +31,9 @@ http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363488&ex
 
 #EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 1
 http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=591593&extension=ts&play_token=QfiCwRS502&sn2=
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 2
+#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 2
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=591591&extension=ts&play_token=12kPwD7wN5
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS EXTRA 3
+#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 3
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=787905&extension=ts&play_token=cGt0k3nKKV
 
 
