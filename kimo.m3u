@@ -6,6 +6,24 @@ http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1330434&ex
 #EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN XTRA 1 UHD
 http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363492&extension=ts&play_token=mPdYZ5sn7r&sn2=
 
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",تكبيرات العشر من ذي الحجة
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554691&extension=ts&play_token=U9nmdRBiwf&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",تكبيرات عيد الأضحى
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554692&extension=ts&play_token=Su4PRUfyvu&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",الملحون
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554863&extension=ts&play_token=tDL5nSDzDp&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",عبد الرحيم الصويري
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554864&extension=ts&play_token=pS3Bk6Ozyw&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",اغاني العيد للاطفال
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554693&extension=ts&play_token=RMUkkCfI5I&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",أغاني العيد
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554689&extension=ts&play_token=kiDzrbVVm4&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",أفلام العيد
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554690&extension=ts&play_token=MxVNl7JTcK&sn2=
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",مسرحيات العيد
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554687&extension=ts&play_token=kEXG5fu3wk&sn2=
+
+
 #EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 UHD
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549285&extension=ts&play_token=oc6pG2RWZE&sn2=
 #EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 UHD
