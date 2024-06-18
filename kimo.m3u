@@ -1,708 +1,281 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports MAX",beIN Sports MAX 1 HEVC
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/576
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports MAX",beIN Sports MAX 2 HEVC
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/577
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="beIN Sports MAX",beIN Sports MAX 1 HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/578
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports MAX",beIN Sports MAX 2 HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/579
-#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="beIN Sports MAX",beIN Sports MAX 1 SD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/580
-#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN Sports MAX",beIN Sports MAX 2 SD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/581
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",KIMO
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/276
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 1 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/314
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 2 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/315
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 3 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/316
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 4 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/317
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 5 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/318
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 6 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/319
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 7 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/320
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 8 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/321
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 9 ⁴ᵏ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/322
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN Newsᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/277
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 1ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/278
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 2ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/280
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 3ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/281
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 4ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/282
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 5ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/283
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 6ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/284
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 7ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/285
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 8ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/286
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 1ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/323
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 2ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/324
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 3ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/325
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 9ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/509
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beINSPORTS NBA
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/510
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC  ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/511
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 1 ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/512
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 2 ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/513
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 3 ᴴᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/514
-
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 4 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/293
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 1  sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/289
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 2 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/290
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 3 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/291
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 5 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/294
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 6 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/295
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 7 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/296
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 8 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/297
-#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 9 sᴰ
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/298
-
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/122
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 3
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/124
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 4
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/125
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC-EXTRA 1 HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/126
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 5
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/127
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC-EXTRA 2 HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/128
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 1 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/130
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 2 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/131
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 3 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/132
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 4 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/133
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 5 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/134
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 6 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/135
-#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 7 4K
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/136
-
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 1 SERIA A
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/137
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD StarzPlay SPORT 2 FHD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/139
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 2 SERIA A
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/371
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/483
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports Asia 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/518
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports Asia 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/519
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",LIVE 1 ⚽️
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/554
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",LIVE 3 ⚽️
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/556
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",LIVE 4 ⚽️
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/557
-#EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",LIVE 2 ⚽️
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/555
-
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/479
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",jordan sport
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/140
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 4
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/141
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 3
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/142
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/143
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/144
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 3
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/145
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/146
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/147
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Sharjah Sports
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/148
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",arriadia tv
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/149
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Bahrain Sports
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/150
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Oman Sports
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/151
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Libya Sports
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/152
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Ksa Sports 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/153
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass4
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/154
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/155
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass 5
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/156
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Ksa Sport 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/158
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",bein sport open
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/159
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ON SPORTS 1
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/160
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ON SPORTS 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/161
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Palestine Sport
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/162
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Nile Sport
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/163
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Sudan Sport
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/164
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Arabic Sports قنوات عربية رياضية",|FR| INFOSPORT+
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/165
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",On Time Sport 3HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/166
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Libya Sport 2
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/167
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",KSA SPORTS 3
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/168
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ksa Sport 4
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/169
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Kuwait Sport HD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/170
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Ahly
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/171
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Zamalek
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/172
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",IMPACT Wrestling TV
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/173
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Iraqia Sport
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/174
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Kass three
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/175
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",UFC FIGHTPASS FHD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/176
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",UFC Fight Pass UHD
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/177
-#EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Rabiaa Iraq SPORT
-http://mo3ad.xyz/mo3ad1SA3c/mo3ad1SA3c/178
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏 ",AR| القرآن الكريم - أحمد العجمي
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1387914&extension=ts&play_token=YfMlM7xuXp&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| KIMO NEWS
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1330434&extension=ts&play_token=QO60pICqvE&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN XTRA 1 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363492&extension=ts&play_token=mPdYZ5sn7r&sn2=
-
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",تكبيرات العشر من ذي الحجة
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554691&extension=ts&play_token=U9nmdRBiwf&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",تكبيرات عيد الأضحى
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554692&extension=ts&play_token=Su4PRUfyvu&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",الملحون
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554863&extension=ts&play_token=tDL5nSDzDp&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",عبد الرحيم الصويري
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554864&extension=ts&play_token=pS3Bk6Ozyw&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",اغاني العيد للاطفال
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554693&extension=ts&play_token=RMUkkCfI5I&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",أغاني العيد
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554689&extension=ts&play_token=kiDzrbVVm4&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",أفلام العيد
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554690&extension=ts&play_token=MxVNl7JTcK&sn2=
-#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",مسرحيات العيد
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554687&extension=ts&play_token=kEXG5fu3wk&sn2=
-
-
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549285&extension=ts&play_token=yHDAQuFD10&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549289&extension=ts&play_token=9fp9ow4DCm&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549286&extension=ts&play_token=1PsN2CmAAE&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 SD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549290&extension=ts&play_token=fjWUxTs6lR&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 1 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550843&extension=ts&play_token=rM32AGzJum&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 2 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550844&extension=ts&play_token=GXYNPRAcAo&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 3 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550845&extension=ts&play_token=NwX9POiqLp&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 4 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550846&extension=ts&play_token=ANkkgOZfV7&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 5 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550847&extension=ts&play_token=CyZ9QccQO4&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 6 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550848&extension=ts&play_token=1ExL3i6cUd&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 7 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550849&extension=ts&play_token=uCcjylOcL8&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 8 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550850&extension=ts&play_token=iHNdq4UWC1&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 9 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550851&extension=ts&play_token=NSclwkqYNg&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 10 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550852&extension=ts&play_token=6BLuRaxVv2&sn2=
-
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN XTRA 2 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363493&extension=ts&play_token=ndiBIhJRLA&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 1 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363480&extension=ts&play_token=ua9VWTLjQL&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 2 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363481&extension=ts&play_token=ay3vGisT90&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 3 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363482&extension=ts&play_token=0BrpfJZdeK&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 4 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363483&extension=ts&play_token=1vDCoFVtGp&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 5 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363484&extension=ts&play_token=CH3KVL5MZd&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 6 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363485&extension=ts&play_token=5jSypuYoZh&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 7 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363486&extension=ts&play_token=9oz0bAxBzh&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 8 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363487&extension=ts&play_token=DPknpAoYgW&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SPORTS UHD 🌏",AR| BEIN SPORTS 9 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1363488&extension=ts&play_token=ClOhOlN4RZ&sn2=
-
-
-#########################
-
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 1
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=591593&extension=ts&play_token=QfiCwRS502&sn2=
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 2
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=591591&extension=ts&play_token=12kPwD7wN5
-#EXTINF:0 tvg-id="ext" group-title="AL KASS 🇶🇦",AR| AL KASS 3
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=787905&extension=ts&play_token=cGt0k3nKKV
-
-
-
-
-####################
-
-
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦 ",AR| SSC SPORTS NEWS
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002804&extension=ts&play_token=d7rOMfhRay&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC 1 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002802&extension=ts&play_token=DTDVxO8MUO&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC 2 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002794&extension=ts&play_token=ie74rNVzko&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC 3 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002786&extension=ts&play_token=6pA76mxikz&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC 4 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002779&extension=ts&play_token=oMpmD1Fr2x&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC 5 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1002775&extension=ts&play_token=0D1EFMPxs2&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC EXTRA 1 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1433966&extension=ts&play_token=HCrKsz1wpx&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC EXTRA 2 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1433965&extension=ts&play_token=oXjhqO0jdR&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO SSC SPORTS 🇸🇦",AR| SSC EXTRA 3 4K
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:59:6c:30&stream=1433964&extension=ts&play_token=YwEKdwTcmj&sn2=
-
-#################
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 1 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724502&extension=ts&play_token=YBFS9nkEZu
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 2 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724501&extension=ts&play_token=cD2sg1IZ46
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 3 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724500&extension=ts&play_token=5LWcVAwaI7
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 4 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724499&extension=ts&play_token=xkulh423Ne
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 5 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724498&extension=ts&play_token=i0PqEb32CB
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 6 HD [LIVE EVENT] 
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724497&extension=ts&play_token=aFAFphABti
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 7 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724496&extension=ts&play_token=BzWD8EQa6x
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AMAZON PRIME 🇫🇷 ",AR| PRIME 8 HD [LIVE EVENT]
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=724495&extension=ts&play_token=kRUb5lAncP
-
-
-##################
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 1 HD
-http://oo-ott.net/live/68999779004/43467888754/180583.ts
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 2 HD
-http://atlas06.xyz/mag00:1A:79:A8:86:7F/JyRXcKBsFT/144501?play_token=sfVyjXnErD
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO AL FAJER 🇵🇸 ",AR| Al Fajer 3 HD
-##################
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98306&extension=ts&play_token=QKVELXlx4u
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98307&extension=ts&play_token=GkysfPO6cY
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORT 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98258&extension=ts&play_token=TrusR2GDvn
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORT 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=98259&extension=ts&play_token=qRnK5B5NyN
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORT 3 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438026&extension=ts&play_token=jBveVJhN2b
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORT 4 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438027&extension=ts&play_token=hm5l2xru2H
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432175&extension=ts&play_token=K0CigRKpo1
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432171&extension=ts&play_token=xbLq85lbUe
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 3 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432169&extension=ts&play_token=sCgpqjUIj4
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 4 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432166&extension=ts&play_token=v9PlCQK0ti
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 5 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432163&extension=ts&play_token=eWjj5bBBku
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS 6 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432160&extension=ts&play_token=s7vcJ6Kuf2
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO NOVA SPORTS ⚽",NOVA SPORTS PL 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1432151&extension=ts&play_token=jiZI0OSSKW
-
-
-##################
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS 🏟️",ARENA SPORT 1 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1437999&extension=ts&play_token=s1AYV7cPCA
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS 🏟️",ARENA SPORT 2 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1438000&extension=ts&play_token=eG4JY1WK1o
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO ARENA SPORTS 🏟️",ARENA 4 HD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=647110&extension=ts&play_token=bW2hLoSaSx
-
-
-##################
-
-
-#EXTINF:0 tvg-id="ext" group-title="KIMO AD SPORTS 🇦🇪",AR| AD SPORTS 1
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=988032&extension=ts&play_token=Y9uVyVw5S2
-#EXTINF:0 tvg-id="ext" group-title="KIMO AD SPORTS 🇦🇪",AR| AD SPORTS 2
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=988033&extension=ts&play_token=rtFwqGPnmw
-#EXTINF:0 tvg-id="ext" group-title="KIMO AD SPORTS 🇦🇪",AR| AD SPORTS ASIA 1
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=993331&extension=ts&play_token=pDCNW5h2Wr
-#EXTINF:0 tvg-id="ext" group-title="KIMO AD SPORTS 🇦🇪",AR| AD SPORTS ASIA 2
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=993333&extension=ts&play_token=H5Nxi4y1hY
- 
-
-
-
-###################
-
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:53:64&stream=368899&extension=ts&play_token=4PbgFHxObC&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 2
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355924&extension=ts&play_token=LlqTDzuHjl
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 3
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355925&extension=ts&play_token=m2de9QNo7C
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 4
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355926&extension=ts&play_token=ynf6sDZDCA
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ 5
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=355927&extension=ts&play_token=elZit9L1X3
-#EXTINF:0 tvg-id="ext" group-title="KIMO CANAL+ AFRICA🌏",AF| CANAL+ CAN
-http://portal.magic8kip.tv/play/live.php?mac=00:1a:79:b4:f2:86&stream=1428895&extension=ts&play_token=bhU6uISh2F
-
-##################
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",BEIN SPORTS Ñ
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1127391&extension=ts&play_token=9tYJBlA4j6
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",AFN SPORT
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1099330&extension=ts&play_token=iD4NXUPYzs
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",OLYMPIC CHANNEL
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=806919&extension=ts&play_token=TTk3QOPlPe
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT NEWS FHD
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235955&extension=ts&play_token=DNoiuwRT3b
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT TOP EVENT
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235941&extension=ts&play_token=hWngaq7vzG
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT PL
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235927&extension=ts&play_token=KRdzeAw31u
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT MIX
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235913&extension=ts&play_token=XfDT6f0p86
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT F1
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235899&extension=ts&play_token=zK9Gk9DOzJ
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT GOLF
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235885&extension=ts&play_token=w27KO3Dz7q
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",SKY SPORT TENNIS
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1235871&extension=ts&play_token=KrnlzHQTxR
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038922&extension=ts&play_token=AzO8BsqXaa
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038921&extension=ts&play_token=eJl2KVSGlc
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",الدوري الإنجليزي (إعادة) 
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1038920&extension=ts&play_token=ZPLeGn7ixO
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",UFC 24/7
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1395687&extension=ts&play_token=cXva9XVn5f
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",VIAPLAY
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1450252&extension=ts&play_token=yOGI9Vg5I1
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-#EXTINF:EXTINF0 tvg-id="ext" group-title="KIMO SPORTS PACKAGES ⚽",
-
-
-
-
-##################
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9152.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS NEWS FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/92512.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS GLOBAL
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9156.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS GLOBAL HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/30750.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9146.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 HD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9131.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/9147.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD HEVC
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/39224.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS 1 FHD 4K
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/30756.ts
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|.AR.| BEIN SPORTS  2 SD
-http://tv.pro-ott.com:25443/live/Alha2/4SELW7EK4M/32007.ts
-
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BEIN SPORTS  HD1
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330474&extension=ts
-
-#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Channels",BEIN SPORTS  HD 2
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330475&extension=ts
-#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Channels",BEIN SPORTS  HD 3
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330476&extension=ts
-#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",BEIN SPORTS  HD 4
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330477&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS HD 5
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330478&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS HD 6
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330479&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS HD 7
-http://mejarserver.online:80/live/8591A584C90D8580FDF367C776ABAA61/24.ts
-
-
-
-###################
-
-
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS NEWS HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/49
-#EXTINF:0 tvg-id="BeINSports.es" group-title="BeinSport HD Source 1",BEIN  SPORTS HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/50
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1 HD  Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/51
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 2 HD  Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/52
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 HD  Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/53
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 4 HD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/54
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 5 HD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/55
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 6 HD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/56
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 7 HD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/57
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 8 HD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/58
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 9 HD LOCAL
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/59
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 7 HD LOCAL
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/60
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 1 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/62
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 2 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/63
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/64
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 4 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/65
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 5 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/66
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 6 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/67
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 7 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/68
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 8 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/69
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 9 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/70
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/71
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS French HD1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34017
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS French HD2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34018
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Bein Sports English HD1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34019
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Bein Sports English HD2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34020
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",AR: BeiN Sports 2 EN  FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",beIN Sport XTRA 3 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34021
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="BeinSport HD Source 1",BeIN Sports NBA HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34022
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",beIN Sport XTRA 1 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35687
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",beIN Sport XTRA 2 HD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35688
-
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BeIN Sports Extra 2 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35686
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/2
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/3
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS  3 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/4
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 4 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/5
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 5 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/6
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 6 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/7
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 7 UHD Local
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/8
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 8 UHD LOCAL
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/9
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 9 UHD LOCAL
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/10
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD LOCAL
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/11
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",##### BEIN SPORTS UHD LOCAL  #####
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/1
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",##### BEIN SPORTS UHD #####
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/12
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/13
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/14
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/15
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 4 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/16
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 5 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/17
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 6 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/18
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 7 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/19
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 8 UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/20
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BeinSports FHD / Hevc",BEIN SPORTS 9 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/21
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 FR UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/22
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 FR UHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/24
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BeIN Sports Extra 1 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/36
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 ENGLISH FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34023
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 ENGLISH FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34024
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BeIN Sports Extra 2 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34025
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",Bein Sport News FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34026
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="BeinSports FHD / Hevc",BEIN SPORTS
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34027
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="BeinSports FHD / Hevc",BEIN SPORTS NBA FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34028
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BeIN Sports Extra 3 FHD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35685
-
-
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34029
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34030
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD3
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34031
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD4
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34032
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD5
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34033
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD6
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34034
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",Bein Sports SD7
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/34035
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BeinSports SD / LOW",beIN SPORTS 8 SD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35705
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BeinSports SD / LOW",beIN SPORTS 9 SD
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35706
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS FR 1
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/35707
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="BeinSports SD / LOW",beIN Sports 1 LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39086
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN Sports 2 LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39087
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN Sports  3_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39088
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 4 _LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39089
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 5_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39090
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 6_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39091
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 7_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39092
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 8_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39093
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS 9_LOW
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39094
-#EXTINF:0 tvg-id="ext" group-title="BeinSports SD / LOW",beIN SPORTS FR 2
-http://sniperstv.site:8080/@dqdelhafsi@Tshjs@_90/Q7C38hTJHa/39095
-
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS NEWS HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105523
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEINSPORTS | SPORTS",BEINSPORTS NEWS SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117704
+#EXTINF:0 tvg-id="BeINSports.es" group-title="BEINSPORTS | SPORTS",beIN SPORTS HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/60714
+#EXTINF:0 tvg-id="bein4Khd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139969
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119324
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119325
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29741
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49223
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119326
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119327
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29740
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49222
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119328
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119329
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29739
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49221
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119330
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119331
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29738
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49220
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119332
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119333
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29737
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49219
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119334
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119335
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29736
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49218
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119336
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119337
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/29735
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/49217
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119338
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119339
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 8  HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119354
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119340
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119341
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEINSPORTS | SPORTS",beIN SPORTS 9 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119355
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117706
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 1 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117707
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117708
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 2 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117709
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119972
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS EXTRA 3 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/119973
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117718
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 1 EN 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/142147
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117720
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS 2 EN 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/142148
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="BEINSPORTS | SPORTS",beIN SPORTS ñ HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/74212
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS LA LIGA HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/71962
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="BEINSPORTS | SPORTS",beIN SPORTS NBA HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/52120
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115530
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 1 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115531
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115533
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 2 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115534
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115536
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS FR 3 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115537
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 1 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139921
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 2 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139922
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 3 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139923
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 4 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139924
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 5 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139925
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 6 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139926
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS 7 AIS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/139927
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117710
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117711
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117712
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 1 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117713
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117714
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 2 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117715
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117716
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",BEINSPORTS AFC 3 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/117717
+
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 1 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202659
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 2 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202660
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 3 4K
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202661
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 1 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202662
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 2 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202663
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 3 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202664
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202665
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202666
+#EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202667
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 1 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202668
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 2 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202669
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="BEINSPORTS | UEFA EURO 2024",Bein Sports Max 3 SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/202670
+
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SHAHID FOOTBALL DOCUMENTALS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/160818
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ARRIYADIA SD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91972
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ARRIADIA 720P [TNT]
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/104958
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ARRIYADIA HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91971
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 1 NEWS FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115316
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 1 NEWS HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115317
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC SPORTS 1 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/100394
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115318
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC SPORTS 2 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/100395
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115319
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC SPORTS 3 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/100396
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115320
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC SPORTS 4 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/100397
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 4 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115321
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC SPORTS 5 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/100398
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC 5 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115322
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 1 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115332
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115333
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 2 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115334
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115335
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 3 FHD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115336
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",SSC EXTRA 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/115337
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ABUDHABI SPORTS 1 PREMIUM HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/107082
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ABUDHABI SPORTS 2 PREMIUM HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/107084
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ABU DHABI SPORT 1 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91941
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ABU DHABI SPORT 2 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91942
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ALKASS SPORT 1 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94970
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ALKASS SPORT 2 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94971
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ALKASS SPORT 3 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94972
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ALKASS SPORT 4 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94973
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ALKASS SPORT 5 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94974
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ONTIME SPORTS 1080i L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105273
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ONTIME SPORTS2 1080i L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105274
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ONTIME SPORTS2 SD L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105275
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI SPORT 1 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91953
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI SPORT 2 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91954
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI SPORT 3 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91955
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI RACING 1080i S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94998
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI RACING 2 1080i S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94999
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",DUBAI RACING 3 1080i S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/95000
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",ZAMALEK SPORTS SD L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/94600
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",PALESTINE SPORT 1080i L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105319
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",LIBYA SPORT N
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/107682
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",IRAQIA SPORT 1080i L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91969
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",BAHRAIN SPORT 2 720P S
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/95128
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",NILE SPORTS SD L
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91964
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS 1 SD L2
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91956
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS 3 SD L2
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91957
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS PLUS 1 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91958
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS PLUS 2 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91959
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS PLUS 3 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91960
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KSA SPORTS PLUS 4 HD
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91961
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",EL HEDDAF TV
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91974
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",JORDAN SPORTS
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91966
+#EXTINF:0 tvg-id="ext" group-title="ARABES | SPORTS",KTV SPORT
+http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/91968
